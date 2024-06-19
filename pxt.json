@@ -44,7 +44,6 @@
         "config": {
             "microbit-dal": {
                 "bluetooth": {
-                    "open": 1
                 }
             }
         }
